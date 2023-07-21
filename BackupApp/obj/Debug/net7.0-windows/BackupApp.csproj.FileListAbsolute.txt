@@ -1,0 +1,17 @@
+C:\Users\Nathan\source\repos\Backup\BackupApp\bin\Debug\net7.0-windows\BackupApp.exe
+C:\Users\Nathan\source\repos\Backup\BackupApp\bin\Debug\net7.0-windows\BackupApp.deps.json
+C:\Users\Nathan\source\repos\Backup\BackupApp\bin\Debug\net7.0-windows\BackupApp.runtimeconfig.json
+C:\Users\Nathan\source\repos\Backup\BackupApp\bin\Debug\net7.0-windows\BackupApp.dll
+C:\Users\Nathan\source\repos\Backup\BackupApp\bin\Debug\net7.0-windows\BackupApp.pdb
+C:\Users\Nathan\source\repos\Backup\BackupApp\obj\Debug\net7.0-windows\BackupApp.csproj.AssemblyReference.cache
+C:\Users\Nathan\source\repos\Backup\BackupApp\obj\Debug\net7.0-windows\BackupApp.csproj.GenerateResource.cache
+C:\Users\Nathan\source\repos\Backup\BackupApp\obj\Debug\net7.0-windows\BackupApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan\source\repos\Backup\BackupApp\obj\Debug\net7.0-windows\BackupApp.AssemblyInfoInputs.cache
+C:\Users\Nathan\source\repos\Backup\BackupApp\obj\Debug\net7.0-windows\BackupApp.AssemblyInfo.cs
+C:\Users\Nathan\source\repos\Backup\BackupApp\obj\Debug\net7.0-windows\BackupApp.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\source\repos\Backup\BackupApp\obj\Debug\net7.0-windows\BackupApp.dll
+C:\Users\Nathan\source\repos\Backup\BackupApp\obj\Debug\net7.0-windows\refint\BackupApp.dll
+C:\Users\Nathan\source\repos\Backup\BackupApp\obj\Debug\net7.0-windows\BackupApp.pdb
+C:\Users\Nathan\source\repos\Backup\BackupApp\obj\Debug\net7.0-windows\BackupApp.genruntimeconfig.cache
+C:\Users\Nathan\source\repos\Backup\BackupApp\obj\Debug\net7.0-windows\ref\BackupApp.dll
+C:\Users\Nathan\source\repos\Backup\BackupApp\obj\Debug\net7.0-windows\BackupApp.MainForm.resources
